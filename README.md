@@ -1,7 +1,7 @@
 # Projeto utilização de dados da API da Marvel
 
-Visualização do projeto: (https://profparedes-marvel.app/)
+Visualização do projeto: [Marvel](https://profparedes-marvel.netlify.app)
 
-Projeto de estudos para aplicação da APIs da marvel com acesso por senha.
+Primeiro projeto de estudos para aplicação da APIs da marvel com acesso por senha.
 
-Tecnologias utilizadas: APIRest, ReactJS com TypeScript
+Tecnologias utilizadas: APIRest, React.js, TypeScript, Bootstrap e StyledComponents
